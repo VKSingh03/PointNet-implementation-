@@ -1,0 +1,32 @@
+------------------------------------------
+Experiment section2_result
+Number of Point 10000 Rotation X:0 Y:0 Z:0
+Test Accuracy: 0.897059319286872.
+------------------------------------------
+Experiment 15deg_rot
+Number of Point 10000 Rotation X:15 Y:15 Z:15
+Test Accuracy: 0.7433123176661264.
+------------------------------------------
+Experiment 45deg_rot
+Number of Point 10000 Rotation X:45 Y:45 Z:45
+Test Accuracy: 0.5285645056726094.
+------------------------------------------
+Experiment 90y_90x_rot
+Number of Point 10000 Rotation X:90 Y:90 Z:0
+Test Accuracy: 0.35435964343598053.
+------------------------------------------
+Experiment 100pts
+Number of Point 100 Rotation X:0 Y:0 Z:0
+Test Accuracy: 0.7913290113452188.
+------------------------------------------
+Experiment 2Kpts
+Number of Point 2000 Rotation X:0 Y:0 Z:0
+Test Accuracy: 0.8964708265802269.
+------------------------------------------
+Experiment 5Kpts
+Number of Point 5000 Rotation X:0 Y:0 Z:0
+Test Accuracy: 0.8973384116693679.
+------------------------------------------
+Experiment 10Kpts
+Number of Point 10000 Rotation X:0 Y:0 Z:0
+Test Accuracy: 0.897059319286872.
